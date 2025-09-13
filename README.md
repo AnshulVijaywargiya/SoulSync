@@ -43,25 +43,25 @@ SoulSync is a full-stack **MERN** application designed to help users take care o
 
 ### **Frontend (React)**  
 MentalHealthApp-Frontend/
-├── public/ # Static assets
-├── src/ # Main React components, pages, and logic
-├── package.json # Frontend dependencies
-├── tailwind.config.js # TailwindCSS configuration
-└── README.md # Documentation (this file)
+- public/ # Static assets
+- src/ # Main React components, pages, and logic
+- package.json # Frontend dependencies
+- tailwind.config.js # TailwindCSS configuration
+- README.md # Documentation (this file)
 
 ### Backend (Node + Express)
 MentalHealthApp-Backend/
-├── config/ # Configurations (DB, environment)
-├── controller/ # Business logic for routes
-├── data/ # Sample or seed data
-├── database/ # Database connection setup
-├── models/ # Mongoose schemas/models
-├── multer/ # File upload configuration
-├── routes/ # API routes
-├── upload1/ # Temp uploads folder
-├── uploads/ # Permanent uploaded files
-├── server.js # Entry point for backend server
-└── package.json # Backend dependencies
+- config/ # Configurations (DB, environment)
+- controller/ # Business logic for routes
+- data/ # Sample or seed data
+- database/ # Database connection setup
+- models/ # Mongoose schemas/models
+- multer/ # File upload configuration
+- routes/ # API routes
+- upload1/ # Temp uploads folder
+- uploads/ # Permanent uploaded files
+- server.js # Entry point for backend server
+- package.json # Backend dependencies
 
 
 ## 🖥️ Tech Stack
