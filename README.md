@@ -1,4 +1,4 @@
-# SoulSync – (Sync your thoughts and emotions with a support system)
+# SoulSync – Sync your thoughts and emotions with a support system
 
 SoulSync is a full-stack **MERN** application designed to help users take care of their mental well-being. It provides an engaging interface, secure authentication, and multiple features like a mood tracker, AI-powered therapist chat, mood quiz, and anonymous sharing — all integrated into one seamless platform.  
 
